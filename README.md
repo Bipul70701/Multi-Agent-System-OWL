@@ -56,7 +56,7 @@ Welcome to my latest project: a **multi-agent AI platform** that automates compl
 
 5. **Run the Streamlit app**:  
    ```bash  
-   streamlit run app.py  
+   streamlit run multiagentsystem.py  
    ```  
 
 ---
